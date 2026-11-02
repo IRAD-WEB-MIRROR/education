@@ -1,0 +1,56 @@
+
+html.wave-0 { font-size: 16px; background: #fff; }
+html.wave-0 {
+  --crimson: #0000ee; --crimson-deep: #800000; --crimson-wash: #ffffe0; --ink: #000; --ink-2: #000; --muted: #555; --line: #808080;
+  --paper: #fff; --stone: #f0f0f0; --gold: #c0c0c0; --blue: #000080; --blue-deep: #000080; --blue-wash: #f0f0f0;
+  --serif: "Times New Roman", Times, serif; --sans: "Times New Roman", Times, serif; --wrap: none;
+}
+html.wave-0 body { width: 760px; margin: 8px auto; background: #fff; color: #000; font: 16px/1.25 "Times New Roman", Times, serif; }
+html.wave-0 .wv { display: block; }
+html.wave-0 a { color: #00e; text-decoration: underline; }
+html.wave-0 a:visited { color: #551a8b; }
+html.wave-0 .skip { position: absolute; left: -9999px; }
+html.wave-0 .skip:focus { left: 8px; top: 8px; background: #ff0; z-index: 9; }
+html.wave-0 hr { border: 0; border-top: 2px groove #ccc; margin: 8px 0; }
+.w0-head { width: 100%; border-collapse: collapse; }
+.w0-head td { vertical-align: middle; padding: 0; }
+.w0-head .e { width: 90px; }
+.w0-head .tt { font: bold 26px "Times New Roman", serif; color: #800000; }
+.w0-head .st { font: italic 14px "Times New Roman", serif; color: #333; }
+.w0-head .lg { text-align: right; font-size: 13px; white-space: nowrap; }
+.w0-btns { text-align: center; margin: 4px 0 8px; }
+html.wave-0 .gb { display: inline-block; font: bold 11px Arial, sans-serif; color: #000; text-decoration: none; background: #c0c0c0; border: 2px outset #eee; padding: 2px 7px; margin: 1px; }
+html.wave-0 .gb[aria-current] { border-style: inset; }
+.w0-bar { background: #000080; color: #fff; font: bold 13px Arial, sans-serif; padding: 3px 6px; margin: 0 0 8px; }
+.w0-uc { text-align: center; font: bold 13px Arial, sans-serif; color: #c60; }
+.w0-ft { font: 11px Arial, sans-serif; color: #555; text-align: center; margin: 4px 0 12px; }
+.w0-mail { color: #00e; text-decoration: underline; }
+html.wave-0 .page { padding: 0; }
+html.wave-0 .wrap { max-width: none; padding: 0; margin: 0; }
+html.wave-0 h1 { display: none; }
+html.wave-0 h2, html.wave-0 h3, html.wave-0 h4 { font: bold 16px "Times New Roman", serif; color: #000; text-transform: uppercase; margin: 14px 0 4px; }
+html.wave-0 h3 { text-transform: none; }
+html.wave-0 .lead { font-size: 16px; color: #000; max-width: none; }
+html.wave-0 .crumbs { font-size: 13px; margin: 0 0 8px; }
+html.wave-0 .small { font-size: 13px; }
+html.wave-0 .sect-h { display: block; border: 0; margin: 14px 0 4px; padding: 0; }
+html.wave-0 .sect-h h2 { margin: 0; }
+html.wave-0 .sect-h a { display: none; }
+html.wave-0 .grid { display: block; }
+html.wave-0 .card, html.wave-0 .dept, html.wave-0 .doc, html.wave-0 .release, html.wave-0 .person { border: 1px solid #808080; background: #fff; padding: 6px; margin: 0 0 6px; border-radius: 0; box-shadow: none; }
+html.wave-0 .card.tone { background: #f0f0f0; }
+html.wave-0 img { border: 2px solid #000; }
+html.wave-0 .w0-head img { border: 0; }
+html.wave-0 .photo, html.wave-0 .portrait, html.wave-0 .portrait-photo { border: 0; padding: 0; background: none; }
+html.wave-0 figcaption { font: italic 13px "Times New Roman", serif; }
+html.wave-0 .plist li { border: 0; padding: 3px 0; list-style: square; }
+html.wave-0 .plist .meta { font-size: 13px; color: #800000; }
+html.wave-0 .plist .t { font: 16px "Times New Roman", serif; }
+html.wave-0 table, html.wave-0 .facts { border-collapse: separate; border-spacing: 2px; }
+html.wave-0 th, html.wave-0 td { border: 1px solid #808080; padding: 4px; background: #fff; }
+html.wave-0 th { background: #c0c0c0; font: bold 13px Arial, sans-serif; }
+html.wave-0 .w0-head td { border: 0; }
+html.wave-0 .tag { background: none; color: #800000; font: bold 12px Arial, sans-serif; text-transform: uppercase; border: 0; padding: 0; }
+html.wave-0 .kit-thumb { float: left; margin: 0 10px 6px 0; width: 120px; }
+html.wave-0 button, html.wave-0 input, html.wave-0 select { font: 13px Arial, sans-serif; }
+@media print { html.wave-0 .w0-btns { display: none; } }

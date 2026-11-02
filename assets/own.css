@@ -1,0 +1,5 @@
+html.wave-0 table.w0-t { width: 100%; } html.wave-0 table.w0 { border: 1px solid #808080; border-collapse: collapse; width: 100%; font-size: 13px; margin: 8px 0; }
+html.wave-0 table.w0 th { background: #c0c0c0; color: #000; } html.wave-0 table.w0 td, html.wave-0 table.w0 th { border: 1px solid #808080; padding: 3px 5px; }
+html.wave-0 .w0-hd { background: #7a1f24; color: #fff; font-weight: bold; padding: 2px 6px; margin: 14px 0 6px; font-family: Arial, sans-serif; font-size: 13px; }
+html.wave-0 ul.w0-news { list-style: square; }
+@media (max-width: 680px) { html.wave-0 table.w0-t td { display: block; width: auto; } }

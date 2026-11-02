@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://education.iradgov.org/sitemap.xml
