@@ -45,6 +45,7 @@
    "kit_how": "How to apply",
    "kit_isclosed": "Competition closed",
    "kit_phone": "Tel.",
+   "kit_board": "Vacancies in all the state bodies of the Zone are also published together on the portal of the Office of the Governor:",
    "kit_nav": "The Ministry"
   },
   "ir": {
@@ -88,6 +89,7 @@
    "kit_how": "Kantip arız berüü kerek",
    "kit_isclosed": "Konkurs jabıldı",
    "kit_phone": "Tel.",
+   "kit_board": "Zonanın bardık mamlekettik organdarının bosh orundarı Gubernatordun apparatının portalında da birge jarıyalanat:",
    "kit_nav": "Ministrlik jönündö"
   },
   "ru": {
@@ -131,6 +133,7 @@
    "kit_how": "Как подать документы",
    "kit_isclosed": "Конкурс завершён",
    "kit_phone": "Тел.",
+   "kit_board": "Вакансии всех государственных органов Зоны также публикуются вместе на портале Аппарата губернатора:",
    "kit_nav": "О министерстве"
   }
  },
@@ -176,6 +179,7 @@
    "kit_how": "Kantip arız berüü kerek",
    "kit_isclosed": "Konkurs jabıldı",
    "kit_phone": "Tel.",
+   "kit_board": "Zonanın bardık mamlekettik organdarının bosh orundarı Gubernatordun apparatının portalında da birge jarıyalanat:",
    "kit_nav": "Ministrlik jönündö",
    "kh1": "Küzgü es aluu 1–8-noyabr",
    "kh2": "Mugalimdik orundar: mugalimderge chakırık",
@@ -222,6 +226,7 @@
    "kit_how": "Как подать документы",
    "kit_isclosed": "Конкурс завершён",
    "kit_phone": "Тел.",
+   "kit_board": "Вакансии всех государственных органов Зоны также публикуются вместе на портале Аппарата губернатора:",
    "kit_nav": "О министерстве",
    "kh1": "Осенние каникулы 1–8 ноября",
    "kh2": "Вакансии: приглашаем учителей",
